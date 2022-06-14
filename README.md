@@ -1,2 +1,2 @@
-# suma.entrega1
+# ejercicio1
 Created with CodeSandbox
